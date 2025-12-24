@@ -98,5 +98,6 @@ window functions, and time-based analysis.
 
 ---
 
-## Contact
-Feel free to connect via GitHub or LinkedIn for feedback or collaboration.
+## Author
+Created as part of a data analysis portfolio project.
+
